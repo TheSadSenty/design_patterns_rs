@@ -1,4 +1,4 @@
-mod factory;
 mod gui;
-mod html;
 mod windows;
+mod html;
+mod factory;

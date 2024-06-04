@@ -14,6 +14,8 @@ mod test {
         let platform = gui::Platform::Windows;
         let dialog = factory::init(platform);
         dialog.render();
+        
+        
     }
     #[test]
     fn factory_test_html() {
